@@ -9,4 +9,4 @@ Repository including the work done during the PostgreSQL for Everybody Specializ
 
 - [x] Add code used in course 3/4: JSON_Natural_Language_Processing_PostgreSQL
 
-- [ ] Add code used in course 4/4: Database_Architecture_Scale_NoSQL_Elasticsearch
+- [x] Add code used in course 4/4: Database_Architecture_Scale_NoSQL_Elasticsearch
