@@ -1,0 +1,1 @@
+ALTER TABLE pg4e_debug ADD COLUMN neon507 INTEGER;
