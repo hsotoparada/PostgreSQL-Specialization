@@ -1,6 +1,6 @@
 -- Unesco Heritage Sites: many-to-one relationship
 
--- In this assignment you will read some Unesco Heritage Site data in
+-- In this assignment we will read some Unesco Heritage Site data in
 -- comma-separated-values (CSV) format and produce properly normalized tables.
 
 ------------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 # http://mbox.dr-chuck.net/sakai.devel/100/101
 
 # python3 elasticmail.py
-# Pulls messages data from an email web and puts it into index
+# Pulls messages data from an email web and insert it into an Elasticsearch NoSQL database.
 
 import requests
 import re

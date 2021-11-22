@@ -1,3 +1,8 @@
+-- In this assignment we will normalize a small set of user/role/course data
+-- and insert it into a properly connected set of many-to-many tables.
+
+------------------------------------------------------------------------------
+
 -- create tables
 
 DROP TABLE student;

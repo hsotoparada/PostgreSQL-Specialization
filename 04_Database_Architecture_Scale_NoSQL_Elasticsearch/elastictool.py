@@ -3,11 +3,6 @@
 
 # https://www.pg4e.com/code/elastictool.py
 
-# (If needed)
-# https://www.pg4e.com/code/hidden-dist.py
-# copy hidden-dist.py to hidden.py
-# edit hidden.py and put in your credentials
-
 import requests
 import json
 import hidden

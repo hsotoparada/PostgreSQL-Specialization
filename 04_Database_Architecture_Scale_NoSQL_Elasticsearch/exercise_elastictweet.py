@@ -3,6 +3,9 @@
 
 # pip3 install elasticsearch
 
+# python3 elastictweet.py
+# Insert a tweet into an Elasticsearch NoSQL database and perform a search.
+
 from datetime import datetime
 from elasticsearch import Elasticsearch
 from elasticsearch import RequestsHttpConnection

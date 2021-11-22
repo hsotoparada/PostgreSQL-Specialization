@@ -1,4 +1,5 @@
-# Download a book
+# Download a book and insert it into an Elasticsearch NoSQL database.
+#
 # wget http://www.gutenberg.org/cache/epub/18866/pg18866.txt
 # wget http://www.gutenberg.org/cache/epub/14091/pg14091.txt
 # wget https://www.gutenberg.org/files/2591/2591-0.txt

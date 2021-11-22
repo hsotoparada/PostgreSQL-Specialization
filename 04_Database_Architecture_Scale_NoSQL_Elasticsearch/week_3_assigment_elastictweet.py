@@ -1,3 +1,9 @@
+# In this assignment we will insert tweets into an Elasticsearch NoSQL database 
+# and perform a search.
+
+# ------------------------------------------------------------------------------
+
+
 from datetime import datetime
 from elasticsearch import Elasticsearch
 from elasticsearch import RequestsHttpConnection

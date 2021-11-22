@@ -1,3 +1,8 @@
+-- In this assignment we will create two tables, and hand-load a small  
+-- amount of data in the tables while properly normalizing the data.
+
+------------------------------------------------------------------------------
+
 DROP TABLE make;
 DROP TABLE model;
 

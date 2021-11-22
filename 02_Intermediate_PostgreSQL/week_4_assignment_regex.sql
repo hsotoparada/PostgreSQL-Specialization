@@ -1,8 +1,8 @@
--- In this assignment you will create a regular expression to retrieve a subset
+-- In this assignment we will create a regular expression to retrieve a subset
 -- data from the purpose column of the taxdata table in the readonly database
 -- (access details below).
 --
--- Write a regular expression to retrieve that meet the following criteria:
+-- The regular expression should meet the following criteria:
 -- Lines that end with a period. (don't forget to escape)
 --
 -- As an example (not the solution to this assignment), if you were looking for

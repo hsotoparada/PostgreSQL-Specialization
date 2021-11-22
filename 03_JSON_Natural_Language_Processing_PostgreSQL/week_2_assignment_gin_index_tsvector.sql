@@ -1,4 +1,4 @@
--- In this assignment, you will create a table of documents and then produce a
+-- In this assignment, we will create a table of documents and then produce a
 -- GIN-based ts_vector index on the documents.
 
 ------------------------------------------------------------------------------
