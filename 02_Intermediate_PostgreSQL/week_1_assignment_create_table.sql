@@ -1,3 +1,7 @@
+-- In this assignment we will create a table and add a stored procedure to it.
+
+------------------------------------------------------------------------------
+
 DROP TABLE pg4e_debug;
 
 CREATE TABLE pg4e_debug (
